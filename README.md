@@ -4,7 +4,7 @@ Welcome to the SQLBolt exercises repository! This repository contains solutions,
 
 ## Table of Contents
 
-1. [Lesson 1: SELECT Queries 101](#lesson-1-select-queries-101)
+1. [Lesson 1: SELECT Queries 101](https://github.com/gokulselvam2911/SQLbolt/blob/main/SQL_Task_01.png?raw=true)
 2. [Lesson 2: Queries with Constraints (Pt. 1)](#lesson-2-queries-with-constraints-pt-1)
 3. [Lesson 3: Queries with Constraints (Pt. 2)](#lesson-3-queries-with-constraints-pt-2)
 4. [Lesson 4: Filtering and Sorting Query Results](#lesson-4-filtering-and-sorting-query-results)
